@@ -3,7 +3,7 @@
 #'
 #' @param v the object to be plotted
 #'
-#' @return
+#' @return density plot
 #' @export
 #'
 #' @examples
