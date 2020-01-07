@@ -10,7 +10,7 @@ density_plot(v)
 \item{v}{the object to be plotted}
 }
 \value{
-
+density plot
 }
 \description{
 Density plots
