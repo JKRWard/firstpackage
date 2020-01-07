@@ -13,3 +13,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/JKRWard/firstpackage
 BugReports: https://github.com/JKRWard/firstpackage/issues
+RoxygenNote: 7.0.2
